@@ -30,8 +30,7 @@ To write a Python program for simple implementation of Priority Queue using Queu
 ### PROGRAM
 
 ```python
-#Reg.No: 212222060253
-#Name: SRIJAYAN T
+
 
 class PriorityQueue(object):
     def __init__(self):
