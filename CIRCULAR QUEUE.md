@@ -25,8 +25,7 @@ To write a Python program with a function to insert float values into a Circular
 ### PROGRAM
 
 ```python
-#Reg No.:212222060253
-#Name: SRIJAYAN T
+
 class Queue:
     def __init__(self,limit):
         self.queue=[]
